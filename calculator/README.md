@@ -35,7 +35,7 @@ Check out **demo.ipynb** to look at all the functions the tool supports or conti
 > install from github
 
 ```shell
-$ pip install git+https://github.com/johnsoong216/PokerOddsCalc.git
+$ pip install git+[https://github.com/johnsoong216/PokerOddsCalc.git](https://github.com/bigBlueLizard/Poker-Odds-Calculator.git)
 ```
 
 ---
